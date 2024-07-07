@@ -1,7 +1,7 @@
 Requirement 
 
-Install Maven 3.9.8
-Install Java 11
+- Install Maven 3.9.8
+- Install Java 11
 
 To Compile
 
